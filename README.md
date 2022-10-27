@@ -1,4 +1,4 @@
-# cardiotocography_analysis
+# Cardiotocography Analysis
 
 **Goals:** 
 
