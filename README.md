@@ -1,6 +1,6 @@
 # cardiotocography_analysis
 
-Goals: 
+**Goals:** 
 
 • Obtaining a cardiotocography analysis for infants to decide whether the baby is to be delivered through
 caesarean section or assisted vaginal birth.
@@ -9,7 +9,7 @@ caesarean section or assisted vaginal birth.
 fetus during labor.
 
 
-Introduction and Scope:
+**Introduction and Scope:**
 
 The fetal heart rate fluctuations and their temporal correlation with uterine contractions are captured by cardiotocography (CTG). The goal of obtaining a cardiotocography analysis is to identify infants who may be anemic (hypoxic) in order to direct further evaluations of fetal welfare or decide whether the baby is to be delivered through caesarean section or assisted vaginal birth. A major problem today lies in assessing the efficiency and method of labor delivery and continuous cardiotocography acts as a technique for keeping tabs on the health of the fetus during labor.
 
@@ -17,7 +17,7 @@ Using clinical data that was routinely gathered in a large tertiary hospital, we
 The diagnostic features were measured and automatically processed from 2126 fetal cardiotocograms (CTGs). Three knowledgeable obstetricians classified the CTGs as well, and they each received a consensus categorization label. A, B, C, etc.) morphologic pattern and fetal condition were used to classify the samples (N, S, P). Therefore, the dataset can be applied to trials with 10 classes or 3 classes.
 
 
-Attribute Information:
+**Attribute Information:**
 
 LB - FHR baseline (beats per minute)
 
